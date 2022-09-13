@@ -1,1 +1,1 @@
-Write a program that prints all possible combinations of single-digit numbers.
+Write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
